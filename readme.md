@@ -123,4 +123,3 @@ The application uses:
 * `game.pickle` – Serialized game state for save/load functionality
 * `rules.txt` – Text-based rules display
 
----
