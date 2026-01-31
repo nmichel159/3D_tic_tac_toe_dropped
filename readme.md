@@ -5,7 +5,7 @@
 **3D Falling Tic-Tac-Toe** is a school project implemented in Python using the Tkinter GUI framework.
 The application extends the classical Tic-Tac-Toe game into a three-dimensional environment with gravity mechanics, allowing players to compete on dynamically sized cubic boards.
 
-The game supports board sizes ranging from **3×3×3 up to 5×5×5**, making it adaptable in both complexity and strategy depth.
+The game supports board sizes ranging from **3×3×3 up to 5×5×5**, making it adaptable in both complexity and strategy depth. 
 
 The application runs as a standalone desktop window and is available both as a Python project (`main.py`) and as a compiled executable (`.exe`) that can be launched without a Python installation.
 
